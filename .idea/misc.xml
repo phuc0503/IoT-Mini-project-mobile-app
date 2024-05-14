@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/bg_border_with_shadow.xml" value="0.22135416666666666" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/bg_gradient.xml" value="0.22135416666666666" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/bg_view.xml" value="0.1" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/custom_border.xml" value="0.22135416666666666" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/header_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/ic_home.xml" value="0.153125" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/ic_search.xml" value="0.22291666666666668" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/ic_temperature.xml" value="0.1" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/nav_background_curved.xml" value="0.1" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/search_icon_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/drawable/white_rectangle_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/menu/bottom_menu.xml" value="0.4" />
+        <entry key="..\:/Internet-of-Things/DemoIoT/app/src/main/res/menu/bottom_nav_menu.xml" value="0.30097087378640774" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

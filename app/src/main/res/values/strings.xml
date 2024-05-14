@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo IoT</string>
+    <string name="temperature">Temperature</string>
+    <string name="temp">30°C</string>
+    <string name="humidity">Humidity</string>
+    <string name="humid">50%</string>
+    <string name="brightness">Brightness</string>
+    <string name="bright">500lx</string>
+    <string name="image_description">Logo HCMUT</string>
+    <string name="hello">Welcome home,</string>
+    <string name="userName">Phuc</string>
+    <string name="search_elements">Search</string>
+    <string name="connected_devices">Connected Devices</string>
+    <string name="led">Smart LED</string>
+    <string name="tv">Smart TV</string>
+    <string name="air_conditioner">Air Conditioner</string>
+    <string name="wireless_speaker">Wireless Speaker</string>
+</resources>
